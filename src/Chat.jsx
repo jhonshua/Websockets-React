@@ -155,7 +155,7 @@ export default function Chat() {
             className="text-sm bg-blue-100 py-1 px-2 text-gray-500 border rounded-sm">logout</button>
         </div>
       </div>
-      <div className="flex flex-col bg-[url('./assets/background/fondo.jpg')] w-2/3 p-2">
+      <div className="flex flex-col bg-[url('./assets/background/fondo.png')] w-2/3 p-2">
         <div className="flex-grow">
           {!selectedUserId && (
             <div className="flex h-full flex-grow items-center justify-center">
